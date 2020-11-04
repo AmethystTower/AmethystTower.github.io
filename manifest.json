@@ -1,0 +1,12 @@
+{
+	"name": "Europe",
+	"theme_color": "#2da427",
+	"background_color": "#000000",
+	"display": "browser",
+	"start_url": "/index.html",
+	"icons": [
+		{
+		  "src": "europeIcon.ico"
+		}
+	]
+  }
