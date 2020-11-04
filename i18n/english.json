@@ -8,6 +8,7 @@
     "navbar-Political" : "Political Map",
     "navbar-About" : "About",
 	
+	//index.html
 	"index-EuropeMain" : "Europe",
     "getStarted" : "Get Started",
     "index-BannerSlogan" : "Welcome to Europe, enjoy your stay.",
@@ -28,17 +29,9 @@
     "index-PoliticalDescription" : "Would you like to know some random european statistics? This map will do it for you.",
     "index-PoliticalButton" : "Visit Political Map",
 	
+	//geographicalMap.html
     "geographical-Banner" : "Geographical Map",
     "geographical-BannerSlogan" : "This geographical map will show you all of the european countries.",
-    "support-FaqTitle" : "FAQ",
-    "support-FaqDescription" : "Browse our freqently asked questions to get answers to the most popular questions.",
-    "support-FaqLink" : "Read Our FAQ",
-    "support-IssuesTitle" : "Getting errors / Issues starting IW4x?",
-    "support-IssuesDescription" : "Click here to learn more about errors and their solutions.",
-    "support-IssuesLink" : "View Solutions",
-    "support-GuidesTitle" : "View our guides",
-    "support-GuidesDescription" : "Browse our catalogue of guides, ranging from seting up a dedicated server to playing games with friends.",
-    "support-GuidesLink" : "View Guides",
 
     "footer-DiscordLink" : "MW2:R Discord",
     "footer-YoutubeLink" : "MW2:R Youtube",
