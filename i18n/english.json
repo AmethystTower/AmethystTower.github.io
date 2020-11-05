@@ -43,6 +43,9 @@
 	"political-ISSMap" : "ISS Map",
 	"political-ISSMapDescription" : "Click here to learn more about how many people per country have visited the international space station.",
 	"political-ISSMapLink" : "Visit ISS Map",
+	"political-LifeMap" : "Life Expectancy Map",
+	"political-LifeMapDescription" : "How long do we live for? Click here to learn more about the life expectancy of all countries.",
+	"political-LifeMapLink" : "Visit Life Expectancy Map",
 	
 	//covidMap.html
 	"covidMap-Banner" : "COVID 19 Map",
@@ -51,6 +54,10 @@
 	//ISSMap.html
 	"ISS-Banner" : "ISS Map",
     "ISS-BannerSlogan" : "This map will show you how many people per country have ever visited the ISS.",
+	
+	//lifeMap.html
+	"Life-Banner" : "Life Expectancy Map",
+    "Life-BannerSlogan" : "This map will show you how long people usually live for in every country.",
 
     "footer-DiscordLink" : "MW2:R Discord",
     "footer-YoutubeLink" : "MW2:R Youtube",
