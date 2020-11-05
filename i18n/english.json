@@ -25,13 +25,32 @@
     "index-Geographical" : "Geographical Map",
     "index-GeographicalDescription" : "This map will show you all of the european countries.",
     "index-GeographicalButton" : "Visit Geographical Map",
-    "index-Political" : "Political Map",
-    "index-PoliticalDescription" : "Would you like to know some random european statistics? This map will do it for you.",
-    "index-PoliticalButton" : "Visit Political Map",
+    "index-Political" : "Political Maps",
+    "index-PoliticalDescription" : "Would you like to know some random european statistics? These maps will do it for you.",
+    "index-PoliticalButton" : "Visit Political Maps",
 	
 	//geographicalMap.html
     "geographical-Banner" : "Geographical Map",
     "geographical-BannerSlogan" : "This geographical map will show you all of the european countries.",
+	
+	//politicalMap.html
+	"political-Banner" : "Political Maps",
+    "political-BannerSlogan" : "These political maps will show you random statistics about european countries.",
+	"political-Statistics" : "Statistics",
+	"political-Covid19Map" : "Covid 19 Map",
+	"political-Covid19MapDescription" : "Learn more about the sars-cov-2 virus in Europe. The statistics are from the 29th of October 2020.",
+	"political-Covid19MapLink" : "Visit Covid 19 Map",
+	"political-ISSMap" : "ISS Map",
+	"political-ISSMapDescription" : "Click here to learn more about how many people per country have visited the international space station.",
+	"political-ISSMapLink" : "Visit ISS Map",
+	
+	//covidMap.html
+	"covidMap-Banner" : "COVID 19 Map",
+    "covidMap-BannerSlogan" : "This map will show you the amount of COVID 19 cases in all european countries.",
+	
+	//ISSMap.html
+	"ISS-Banner" : "ISS Map",
+    "ISS-BannerSlogan" : "This map will show you how many people per country have ever visited the ISS.",
 
     "footer-DiscordLink" : "MW2:R Discord",
     "footer-YoutubeLink" : "MW2:R Youtube",
