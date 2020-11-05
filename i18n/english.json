@@ -58,77 +58,38 @@
 	//lifeMap.html
 	"Life-Banner" : "Life Expectancy Map",
     "Life-BannerSlogan" : "This map will show you how long people usually live for in every country.",
+	
+	//resorts.html
+	"resorts-lisbon" : "Lisbon",
+	"resorts-lisbonDescription" : "Main capital of Portugal. The Cathedral of Lisbon and Triumph Arch are the most popular places that tourists visit.",
+	"resorts-lisbonAttractions" : "Lisbon",
+	"resorts-lisbonAttraction1" : "Cathedral of Lisbon",
+	"resorts-lisbonAttraction2" : "Triumph of Arch",
+	
+	"resorts-Banner" : "Popular Resorts"
+	"resorts-eiffel" : "Eiffel Tower",
+	"resorts-eiffelDescription" : "Having a height of 324 meters, the Eiffel Tower is a huge attraction for couples.",
+	
+	"resorts-coliseum" : "Coliseum",
+	"resorts-coliseumDescription" : "Being about 1950 years old, this ancient gladiator arena is a magnet for tourists and an old piece of ancient Rome.",
+	
+	 "about-Banner" : "Credits",
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
 
     "footer-DiscordLink" : "MW2:R Discord",
     "footer-YoutubeLink" : "MW2:R Youtube",
     "footer-GithubLink" : "MW2:R GitHub",
     "footer-Copyright" : "Trademarks used are owned by their respective owners. This website is not endorsed or affiliated with the copyright holders of the used assets in any form.",
-
-    "discordHelp" : "Still not sure what you need?",
-    "discordHelpLink" : "Visit Our Discord",
-
-    "guides-Banner" : "Guides",
-    "guides-Contents" : "Contents:",
-    "guides-PrivateMatch" : "Hosting a private match with friends",
-    "guides-PublicServer" : "Hosting a public server",
-    "guides-UnlockAll" : "How to unlock all / set a custom rank",
-    "guides-Controller" : "Using a controller on IW4x",
-    "guides-Customise" : "How to customise your game (Camos/Skins/Menus/Music)",
-    "guides-Mods" : "Installing / using mods",
-    "guides-Binds" : "Creating custom binds",
-    "guides-ConsoleCommands" : "Console commands",
-
-    "downloads-Banner" : "Downloads",
-    "downloads-ClientFilesTitle" : "IW4x Client Files (v0.6.0)",
-    "downloads-ClientFilesContents" : "Zip file containing the client files.",
-    "downloads-ClientFilesIncludes" : "Includes: Barebones files to play iw4x & enables play on single player maps such as oilrig (Given you have the SP files)",
-    "downloads-ClientFilesStats" : "File Size: 117.7 MB",
-    
-    "downloads-DlcFilesTitle" : "IW4x DLC",
-    "downloads-DlcFilesContents" : "Contains the custom DLC maps exclusive to the iw4x client.",
-    "downloads-DlcFilesIncludes" : "Includes: Nuketown, Classic Pack #1, Classic Pack #2, Freighter, Resurrection Pack & Recycled Pack",
-    "downloads-DlcFilesStats1" : "<u>Direct Download:</u><br>File Size: 2.08GB",
-    "downloads-DlcFilesStats2" : "<u>Torrent:</u><br>File Size: 2.13GB",
-    
-    "downloads-AllInOneFilesTitle" : "All-In-One Pack",
-    "downloads-AllInOneFilesContents" : "This pack contains everything you need to start playing, complete with all the content availble for IW4x. ",
-    "downloads-AllInOneFilesIncludes" : "Includes: (MW2 Basegame + MW2 Basegame DLC's + IW4x Client Files (v0.6.0) + Iw4x DLC)",
-    "downloads-DirectX" : "<b>Please Note:</b> <a href=\"https://www.microsoft.com/en-us/download/details.aspx?id=19743\">DirectX 9.0</a> needs to be installed to play.",
-    "downloads-AllInOneFilesStats1" : "<u>Direct Download:</u><br>File Size: 14.85GB",
-    "downloads-AllInOneFilesStats2" : "<u>Torrent:</u><br>File Size: 11.39GB",
-
-    "downloads-DirectDownload" : "Direct Download",
-    "downloads-Torrent" : "Torrent [English Only]",
-    "downloads-DirectDownload1" : "Direct Download #1",
-    "downloads-DirectDownload2" : "Direct Download #2",
-
-    "support-IssueTitleBlackScreen" : "Black Screen / Not responding on startup",
-    "support-IssueTitleFatalError1" : "(0x000005) Fatal Error",
-    "support-IssueTitleFatalError2" : "(0xc000007b) Fatal Error",
-    "support-IssueTitleModList" : "Failed to download Mod List",
-    "support-IssueTitleXUID" : "XUID Doesn't match the certificate",
-    "support-IssueTitleImageError" : "Couldn't load image 'AnyImageNameHere'",
-    "support-IssueTitleLowServers" : "Low amount of servers",
-    "support-IssueTitleZeroServers" : "Zero servers",
-    "support-IssueTitleEntryPoint" : "Entry Point Not Found - (DirectSound)",
-    "support-IssueTitleZoneVersion" : "Zone Version is not supported",
-    "support-IssueTitleController" : "My controller isn't working on IW4x",
-    "support-IssueTitleSecurityLevel" : "Stuck on Increasing Security Level",
-    "support-IssueTitleMenuBroken" : "Menu unresponsive / black screen with music on disconnect",
-    "support-IssueTitleFileSysCheck" : "Error during initialization: Couldn't load fileSysCheck.cfg",
-    "support-IssueTitleMss32Dll" : "System Error: mss32.dll was not found",
-    "support-IssueTitleBinkw32Dll" : "System Error: binkw32.dll was not found",
-    "support-IssueTitleCrosshair" : "Crosshair is missing",
-    "support-IssueTitleMiniMap" : "Mini-Map is missing",
-    "support-IssueTitleFPS" : "FPS drops, choppy frames and ghosting",
-    "support-IssueTitleDemo" : "Demo playback - Lost connection to host",
-    "support-IssueTitleAwaitingGamestate" : "Stuck on awaiting gamestate",
-
-
-    "faq-Banner" : "FAQ",
-
-    "about-Banner" : "About",
-
-    "installGuide-Banner" : "Install Guide",
-    "installGuide-BannerSlogan" : "This is the place to learn what you need to start playing, please read this information carefully."
 }
