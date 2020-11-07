@@ -71,6 +71,12 @@
 	"capitals-budapestDescription" : "Main capital of Hungary. Known for surviving 800 years of earthquakes, fires and war without losing its great atmosphere.",
 	"capitals-budapestAttraction1" : "Chain Bridge",
 	"capitals-budapestAttraction2" : "Castle District",
+	
+	"capitals-prague" : "Prague",
+	"capitals-pragueDescription" : "Main capital of the Czech Republic. Being built upon century old architecture from romanian times, this is one of the most popular capitals that Europe has to offer.",
+	"capitals-pragueAttraction1" : "King's Palace",
+	"capitals-pragueAttraction2" : "Charles Bridge",
+	"capitals-pragueAttraction3" : "Vitus Cathedral",
 
 	"resorts-Banner" : "Popular Resorts",
 	"resorts-eiffel" : "Eiffel Tower",
