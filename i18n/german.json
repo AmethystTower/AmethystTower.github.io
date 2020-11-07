@@ -36,13 +36,13 @@
 	"political-Statistics": "Statistik",
 	"political-Covid19Map": "Covid 19 Lageplan",
 	"political-Covid19MapDescription": "Erfahren Sie mehr über das Sars-Cov-2-Virus in Europa. Die Statistiken stammen vom 29. Oktober 2020",
-	"political-Covid19MapLink": "Besuchen Sie den Sars-Cov-2 Lagplan",
+	"political-Covid19MapLink": "Zum COVID 19 Lagplan",
 	"political-ISSMap": "ISS Lageplan",
 	"political-ISSMapDescription": "Klicken Sie hier, um mehr darüber zu erfahren, wie viele Menschen pro Land die internationale Raumstation besucht haben.",
 	"political-ISSMapLink": "Beusche den ISS Lageplan",
 	"political-LifeMap": "Lebenserwatungs Lageplan",
-	"political-LifeMapDescription": "Wie lange leben wir? Klicken Sie hier",
-	"political-LifeMapLink": "Visit Life Expectancy Map, um mehr über die Lebenserwartung aller Länder zu Erfahren",
+	"political-LifeMapDescription": "Besuche die Lebenserwartungskarte, um mehr über die Lebenserwartung aller Länder zu Erfahren",
+	"political-LifeMapLink": "Wie lange leben wir? Klicken Sie hier",
 
 	"covidMap-Banner": "Covid 19 Lageplan",
 	"covidMap-BannerSlogan": "Diese Karte zeigt ihnen die Anzahl der Sars-Cov-2 Erkrankungen in der EU.",
@@ -50,7 +50,7 @@
 	"ISS-Banner": "ISS Lageplan",
 	"ISS-BannerSlogan": "Dieser Lageplan zeigt íhnen wie viele Personen per Land auf der ISS waren.",
 
-	"Life-Banner": "Lebenen Erwartungen Lageplan",
+	"Life-Banner": "Lebenenserwartungs Lageplan",
 	"Life-BannerSlogan": "Diese Karte zeigt Ihnen, wie lange Menschen normalerweise in jedem Land leben.",
 	
 	"capitals-Banner": "Europäische Hauptstädte",
