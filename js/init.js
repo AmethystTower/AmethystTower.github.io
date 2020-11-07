@@ -16,11 +16,14 @@ $(window).scroll(function() {
 });
 
 $(document).ready(function(){   
-	if (localStorage.cookiesAllowed != "true"){
-		setTimeout(function () {
+	if (localStorage.cookiesAllowed != "true")
+	{
+		setTimeout(function ()
+		{
 			$("#cookieConsent").fadeIn(200);
 		}, 2000);
-		$("#closeCookieConsent, .cookieConsentOK").click(function() {
+		$("#closeCookieConsent, .cookieConsentOK").click(function()
+		{
 			$("#cookieConsent").fadeOut(200);
 		}); 
 	}
@@ -29,66 +32,6 @@ $(document).ready(function(){
 function allowCookies(){
 	localStorage.cookiesAllowed = true;
 }
-
-// Randomly Choose Gdrive link
-// Could do with re-write as only all in one files are region bound, to reduce script length
-function driveLink(type, langauge){
-
-	var langKey = 0;
-
-		if (langauge == "de"){
-			langKey = 1;
-		}else if (langauge == "es"){
-			langKey = 2;
-		}
-
-
-		var matrix = [
-
-			[	// GB
-				[	// Client Files (V0.6.0) Hotfix Build
-					'https://drive.google.com/uc?id=1SuF9cVa8VeYnHQDMzf0CxqDnQODymVVC'
-				],
-				[	// DLC Files
-					'https://drive.google.com/uc?id=1d7mpdtyZdCiS4Trf_XHhU1Wxfpa22kYM',
-					'https://drive.google.com/uc?id=1Kb_bD-Tdguy75On2D2jN5Xvo1yo5zhIT',
-					'https://drive.google.com/uc?id=1MHQRFNO81ggf7xS2jxR1L8oM6-vMaUiU'
-				],
-				[	// All in one Files (V0.6.0) Hotfix Build	
-					'https://drive.google.com/uc?id=1Ge12908Rcb1QhceZ1MtCVRuMZ9wfgIdB'
-				]
-			],
-			[	// DE
-				[	// Client Files (V0.6.0) Hotfix Build
-					'https://drive.google.com/uc?id=1SuF9cVa8VeYnHQDMzf0CxqDnQODymVVC'
-				],
-				[	// DLC Files
-					'https://drive.google.com/uc?id=1d7mpdtyZdCiS4Trf_XHhU1Wxfpa22kYM',
-					'https://drive.google.com/uc?id=1Kb_bD-Tdguy75On2D2jN5Xvo1yo5zhIT',
-					'https://drive.google.com/uc?id=1MHQRFNO81ggf7xS2jxR1L8oM6-vMaUiU'
-				],
-				[	// All in one Files (V0.6.0) Hotfix Build
-					'https://drive.google.com/uc?id=1Ge12908Rcb1QhceZ1MtCVRuMZ9wfgIdB'
-				]
-			],
-			[	// ES
-				[	// Client Files (V0.6.0) Hotfix Build
-					'https://drive.google.com/uc?id=1SuF9cVa8VeYnHQDMzf0CxqDnQODymVVC'
-				],
-				[	// DLC Files
-					'https://drive.google.com/uc?id=1d7mpdtyZdCiS4Trf_XHhU1Wxfpa22kYM',
-					'https://drive.google.com/uc?id=1Kb_bD-Tdguy75On2D2jN5Xvo1yo5zhIT',
-					'https://drive.google.com/uc?id=1MHQRFNO81ggf7xS2jxR1L8oM6-vMaUiU'
-				],
-				[	// All in one Files	(V0.6.0) Hotfix Build
-					'https://drive.google.com/uc?id=1Ge12908Rcb1QhceZ1MtCVRuMZ9wfgIdB'
-				]
-			]
-	
-		];
-
-	return matrix[langKey][type][parseInt(Math.random() * (matrix[langKey][type].length))];
-};
 
 window.onload = function() {
 
@@ -115,7 +58,8 @@ var xhttp = new XMLHttpRequest();
 var langDocument = {};
 var currentLangauge = null;
 
-function switchLanguage(language){
+function switchLanguage(language)
+{
 
 	// Save language state
 	localStorage.language = language;
@@ -127,11 +71,16 @@ function switchLanguage(language){
 	var langFullNames = ["english", "german", "spanish"];
 	var currentLangFullName = "";
 
-	if (language == "gb"){
+	if (language == "gb")
+	{
 		currentLangFullName = langFullNames[0];
-	}else if (language == "de"){
+	}
+	else if (language == "de")
+	{
 		currentLangFullName = langFullNames[1];
-	}else if (language == "es"){
+	}
+	else if (language == "es")
+	{
 		currentLangFullName = langFullNames[2];
 	}
 
@@ -142,28 +91,34 @@ function switchLanguage(language){
 	}
 
 	// Json request
-	xhttp.open("GET", "i18n/" + currentLangFullName + ".json", true);
+	xhttp.open("GET", "i18n/german.json", true);
 	xhttp.setRequestHeader("Content-type", "application/json");
 	xhttp.send();
 }
 
 // Hooks events
-xhttp.onreadystatechange = function(){
+xhttp.onreadystatechange = function()
+{
 	
-	if (this.readyState === 4 && this.status === 200) {
+	if (this.readyState === 4 && this.status === 200) 
+	{
 		langDocument = JSON.parse(this.responseText);
 		processLangDocument();
-	}else if(this.readyState === 4){
+	}
+	else if(this.readyState === 4)
+	{
 		alert("Language json failed to load.");
 	}
 };
 
-function iconSwitch(language){
+function iconSwitch(language)
+{
 
 	document.getElementById("currentFlag").className = "flag-icon flag-icon-" + language;
 
 	var mobileNavbar = document.getElementById("_currentFlag");
-    if(mobileNavbar){
+    if(mobileNavbar)
+	{
 		document.getElementById("_currentFlag").className = "flag-icon flag-icon-" + language;
     }
 }
