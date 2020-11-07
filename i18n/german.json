@@ -1,6 +1,5 @@
 {
-	{
-		"langShortName": "gb",
+		"langShortName": "de",
 
 		"navbar-Home": "Home",
 		"navbar-Resorts": "Urlaubsorte",
@@ -95,4 +94,4 @@
 		"footer-facebook": "Neraziel's Steam",
 		"footer-TwitterLink": "Kali Twitter",
 		"footer-Copyright": "Die verwendeten Marken sind Eigentum ihrer jeweiligen Inhaber. Diese Website wird in keiner Form von den Copyright-Inhabern der verwendeten Vermögenswerte unterstützt oder mit diesen verbunden"
-	}
+}

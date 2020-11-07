@@ -30,66 +30,6 @@ function allowCookies(){
 	localStorage.cookiesAllowed = true;
 }
 
-// Randomly Choose Gdrive link
-// Could do with re-write as only all in one files are region bound, to reduce script length
-function driveLink(type, langauge){
-
-	var langKey = 0;
-
-		if (langauge == "de"){
-			langKey = 1;
-		}else if (langauge == "es"){
-			langKey = 2;
-		}
-
-
-		var matrix = [
-
-			[	// GB
-				[	// Client Files (V0.6.0) Hotfix Build
-					'https://drive.google.com/uc?id=1SuF9cVa8VeYnHQDMzf0CxqDnQODymVVC'
-				],
-				[	// DLC Files
-					'https://drive.google.com/uc?id=1d7mpdtyZdCiS4Trf_XHhU1Wxfpa22kYM',
-					'https://drive.google.com/uc?id=1Kb_bD-Tdguy75On2D2jN5Xvo1yo5zhIT',
-					'https://drive.google.com/uc?id=1MHQRFNO81ggf7xS2jxR1L8oM6-vMaUiU'
-				],
-				[	// All in one Files (V0.6.0) Hotfix Build	
-					'https://drive.google.com/uc?id=1Ge12908Rcb1QhceZ1MtCVRuMZ9wfgIdB'
-				]
-			],
-			[	// DE
-				[	// Client Files (V0.6.0) Hotfix Build
-					'https://drive.google.com/uc?id=1SuF9cVa8VeYnHQDMzf0CxqDnQODymVVC'
-				],
-				[	// DLC Files
-					'https://drive.google.com/uc?id=1d7mpdtyZdCiS4Trf_XHhU1Wxfpa22kYM',
-					'https://drive.google.com/uc?id=1Kb_bD-Tdguy75On2D2jN5Xvo1yo5zhIT',
-					'https://drive.google.com/uc?id=1MHQRFNO81ggf7xS2jxR1L8oM6-vMaUiU'
-				],
-				[	// All in one Files (V0.6.0) Hotfix Build
-					'https://drive.google.com/uc?id=1Ge12908Rcb1QhceZ1MtCVRuMZ9wfgIdB'
-				]
-			],
-			[	// ES
-				[	// Client Files (V0.6.0) Hotfix Build
-					'https://drive.google.com/uc?id=1SuF9cVa8VeYnHQDMzf0CxqDnQODymVVC'
-				],
-				[	// DLC Files
-					'https://drive.google.com/uc?id=1d7mpdtyZdCiS4Trf_XHhU1Wxfpa22kYM',
-					'https://drive.google.com/uc?id=1Kb_bD-Tdguy75On2D2jN5Xvo1yo5zhIT',
-					'https://drive.google.com/uc?id=1MHQRFNO81ggf7xS2jxR1L8oM6-vMaUiU'
-				],
-				[	// All in one Files	(V0.6.0) Hotfix Build
-					'https://drive.google.com/uc?id=1Ge12908Rcb1QhceZ1MtCVRuMZ9wfgIdB'
-				]
-			]
-	
-		];
-
-	return matrix[langKey][type][parseInt(Math.random() * (matrix[langKey][type].length))];
-};
-
 window.onload = function() {
 
 	var currentUrlLang = new URL(window.location.href).searchParams.get("lang");
@@ -124,15 +64,14 @@ function switchLanguage(language){
 	// Switch navbar icon
 	iconSwitch(language);
 
-	var langFullNames = ["english", "german", "spanish"];
+	var langFullNames = ["english", "german"];
 	var currentLangFullName = "";
 
 	if (language == "gb"){
 		currentLangFullName = langFullNames[0];
-	}else if (language == "de"){
+	}else if (language == "de")
+	{
 		currentLangFullName = langFullNames[1];
-	}else if (language == "es"){
-		currentLangFullName = langFullNames[2];
 	}
 
 	if (language == "gb"){
