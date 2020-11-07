@@ -99,6 +99,18 @@
     "capitals-berlinAttraction4" : "Berliner Dom",
     "capitals-berlinAttraction5" : "Checkpoint Charlie",
     "capitals-berlinAttraction6" : "Potsdamer Platz",
+	
+	"capitals-amsterdam" : "Amsterdam",
+	"capitals-amsterdamDescription" : "Hauptstadt der Niederlande. Diese Stadt ist besonders für ihre freundlichen Bewohner bekannt, die lieber das Fahrrad statt dem Auto nutzen.",
+	"capitals-amsterdamAttraction1" : "Van-Gogh-Museum",
+	"capitals-amsterdamAttraction2" : "Jordaan District",
+	"capitals-amsterdamAttraction3" : "Königspalast",
+	
+	"capitals-brussels" : "Brüssel",
+    "capitals-brusselsDescription" : "Hauptstadt von Belgien. Die belgische Hauptstadt hat neben den kulinarischen Highlights Schokolade, Bier und Pommes vor allen Dingen einen Augenschmaus neben dem anderen zu bieten. Am zentralen Grote Markt reihen sich die prachtvollen Häuser alter Handwerkszünfte aneinander.",
+    "capitals-brusselsAttraction1" : "Manneken Pis",
+    "capitals-brusselsAttraction2" : "Atomium",
+    "capitals-brusselsAttraction3" : "Schokoladenmuseum",
 
 	"resorts-Banner": "Bekannte Urlaubsorte",
 	"resorts-eiffel": "Eiffel Turm",
