@@ -55,13 +55,14 @@
 
 	"capitals-Banner": "European Capitals",
 	"capitals-Attractions" : "Attractions",
+
 	"capitals-lisbon" : "Lisbon",
 	"capitals-lisbonDescription" : "Capital of Portugal. The Cathedral of Lisbon and Triumph Arch are the most popular places that tourists visit.",
 	"capitals-lisbonAttraction1" : "Cathedral of Lisbon",
 	"capitals-lisbonAttraction2" : "Triumph of Arch",
 
 	"capitals-paris" : "Paris",
-	"capitals-parisDescription" : "Main capital of France. Also known as the "City of Love."",
+	"capitals-parisDescription" : "Capital of France. Also known as the "City of Love."",
 	"capitals-parisAttraction1" : "Eiffel Tower",
 	"capitals-parisAttraction2" : "Arc de Triomphe",
 	"capitals-parisAttraction3" : "Louvre",
@@ -89,6 +90,15 @@
 	"capitals-viennaAttraction2" : "Courtyard Castle",
 	"capitals-viennaAttraction3" : "Castle Schönburg",
 	"capitals-viennaAttraction4" : "Wagenburg",
+	
+	"capitals-berlin" : "Berlin",
+	"capitals-berlinDescription" : "Capital of Germany. Known for being the home of Adolf Hitler and a lot of crazy events during the end of World War 2, this city offers a lot of unique attractions.",
+	"capitals-berlinAttraction1" : "Führer Bunker",
+	"capitals-berlinAttraction2" : "Brandenburg Gate",
+	"capitals-berlinAttraction3" : "Television Tower",
+	"capitals-berlinAttraction4" : "Berlin Dome",
+	"capitals-berlinAttraction5" : "Checkpoint Charlie",
+	"capitals-berlinAttraction6" : "Potsdamer Platz",
 
 	"resorts-Banner" : "Popular Resorts",
 	"resorts-eiffel" : "Eiffel Tower",
