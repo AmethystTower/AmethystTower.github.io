@@ -68,7 +68,7 @@ function switchLanguage(language)
 	// Switch navbar icon
 	iconSwitch(language);
 
-	var langFullNames = ["english", "german", "spanish"];
+	var langFullNames = ["english", "german"];
 	var currentLangFullName = "";
 
 	if (language == "gb")
@@ -79,10 +79,6 @@ function switchLanguage(language)
 	{
 		currentLangFullName = langFullNames[1];
 	}
-	else if (language == "es")
-	{
-		currentLangFullName = langFullNames[2];
-	}
 
 	if (language == "gb"){
 		history.pushState({}, null, window.location.pathname);
@@ -91,7 +87,7 @@ function switchLanguage(language)
 	}
 
 	// Json request
-	xhttp.open("GET", "i18n/german.json", true);
+	xhttp.open("GET", "i18n/" + currentLangFullName + ".json", true);
 	xhttp.setRequestHeader("Content-type", "application/json");
 	xhttp.send();
 }
