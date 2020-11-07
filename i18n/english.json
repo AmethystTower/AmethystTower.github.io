@@ -73,23 +73,24 @@
 	"resorts-coliseum" : "Coliseum",
 	"resorts-coliseumDescription" : "Being about 1950 years old, this ancient gladiator arena is a magnet for tourists and an old piece of ancient Rome.",
 	
-	 "about-Banner" : "Credits",
+	//about.html
+	"about-Banner" : "Credits",
+	"about-whoworked" : "Who worked on this website?",
+	"about-credits1action1" : "Development of website & web design.",
+	"about-credits1action2" : "Implementation and edits of all used image assets.",
+	"about-credits1action3" : "Support for multiple languages (english & german).",
+	"about-credits1action4" : "Entire text for english localization.",
 	
+	"about-credits2action1" : "Research of information used by this website.",
 	
+	"about-credits3action1" : "Research of information used by this website.",
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
+	"about-credits4action1" : "Research of information used by this website.",
 
     "footer-DiscordLink" : "MW2:R Discord",
     "footer-YoutubeLink" : "MW2:R Youtube",
-    "footer-GithubLink" : "MW2:R GitHub",
+    "footer-instagram" : "Kali Twitter",
+    "footer-facebook" : "Neraziel's Steam",
+    "footer-TwitterLink" : "Kali Twitter",
     "footer-Copyright" : "Trademarks used are owned by their respective owners. This website is not endorsed or affiliated with the copyright holders of the used assets in any form.",
 }
