@@ -80,7 +80,8 @@ function switchLanguage(language)
 		currentLangFullName = langFullNames[1];
 	}
 
-	if (language == "gb"){
+	if (language == "gb")
+	{
 		history.pushState({}, null, window.location.pathname);
 	}else{
 		history.pushState({}, null, window.location.pathname + "?lang=" + language);
