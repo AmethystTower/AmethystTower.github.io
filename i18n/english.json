@@ -128,6 +128,12 @@
 	"capitals-athensAttraction1" : "Acropolis",
 	"capitals-athensAttraction2" : "Olympieion",
 	"capitals-athensAttraction3" : "Benaki Museum",
+	
+	"capitals-rome" : "Rome",
+	"capitals-romeDescription" : "The heart of Italy is known for its old ancient structures that were built during the time of the romans, where they would let prisoners fight for their lives as gladiators in action packed battles between life and death as entertainment for their citizen. If a gladiator was victiours in battle then he would be freed.",
+	"capitals-romeAttraction1" : "Coliseum",
+	"capitals-romeAttraction2" : "St. Peter's Basilica",
+	"capitals-romeAttraction3" : "Pantheon",
 
 	"resorts-Banner" : "Popular Resorts",
 	"resorts-eiffel" : "Eiffel Tower",
