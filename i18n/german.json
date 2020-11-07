@@ -55,10 +55,50 @@
 	
 	"capitals-Banner": "Europäische Hauptstädte",
 	"capitals-attractions": "Attraktionen",
+
 	"capitals-lisbon": "Lisbon",
 	"capitals-lisbonDescription": "Haupthauptstadt Portugals. Die Kathedrale von Lissabon und der Triumphbogen sind die beliebtesten Orte, die Touristen besuchen.",
 	"capitals-lisbonAttraction1": "Kathedrale von Lisbon",
 	"capitals-lisbonAttraction2": "Triumphbogen",
+
+	"capitals-paris" : "Paris",
+	"capitals-parisDescription" : "Hauptstadt von Paris, auch bekannt als die Stadt der Liebe",
+	"capitals-parisAttraction1" : "Eiffel Turm",
+	"capitals-parisAttraction2" : "Bogen des Sieges",
+	"capitals-parisAttraction3" : "Louvre",
+	"capitals-parisAttraction4" : "Pariser Katakomben",
+	
+	"capitals-budapest" : "Budapest",
+	"capitals-budapestDescription" : "Hauptstadt von Ungarn. Bekannt für 800Jahre erdbeben Geschichte. Auch für groß feuer und Kiregen und dennoch immer noch schön.",
+	"capitals-budapestAttraction1" : "Ketten Brücke",
+	"capitals-budapestAttraction2" : "Burgenviertel",
+	
+	"capitals-prague" : "Prague",
+	"capitals-pragueDescription" : "Hauptstadt der Czech Republic. Wurde auf der altgermanischen bautechnik Aufgebaut. Es ist eines der bekanntesten Hauptstädte europas.",
+	"capitals-pragueAttraction1" : "Königspalast",
+	"capitals-pragueAttraction2" : "Karlsbrücke",
+	"capitals-pragueAttraction3" : "Veitsdome",
+	
+	"capitals-barcelona" : "Barcelona",
+	"capitals-barcelonaDescription" : "Hauptstadt Spaniens. Als eines der schönsten Haupstädte Europas bekannt, da der Strand neben an ist.",
+	"capitals-barcelonaAttraction1" : "Camp Nou",
+	"capitals-barcelonaAttraction2" : "Sagrada Família",
+	
+	"capitals-vienna" : "Vienna",
+	"capitals-viennaDescription" : "Hauptstadt von Österreich. Diese Stadt ist für ihren reichtum an Musikkultur.",
+	"capitals-viennaAttraction1" : "Schloss Belvedere",
+    "capitals-viennaAttraction2" : "Hofburg",
+    "capitals-viennaAttraction3" : "Schloss Schönburg",
+    "capitals-viennaAttraction4" : "Wagenburg",
+
+	"capitals-berlin" : "Berlin",
+    "capitals-berlinDescription" : "Hauptstadt von Deutschland. Bekannt dafür Adolf Hitlers Heimat zu sein. Außerdem sind viele Ereignisse während des 2. Weltkriegs hier geschehen. Darüberhinaus besitzt die Stadt viele einzigartike Sehenswürdigkeiten.",
+    "capitals-berlinAttraction1" : "Führer Bunker",
+    "capitals-berlinAttraction2" : "Brandenburger Tor",
+    "capitals-berlinAttraction3" : "Fernsehturm",
+    "capitals-berlinAttraction4" : "Berliner Dom",
+    "capitals-berlinAttraction5" : "Checkpoint Charlie",
+    "capitals-berlinAttraction6" : "Potsdamer Platz",
 
 	"resorts-Banner": "Bekannte Urlaubsorte",
 	"resorts-eiffel": "Eiffel Turm",
