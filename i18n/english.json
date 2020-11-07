@@ -70,8 +70,8 @@
 	"about-whoworked" : "Who worked on this website?",
 	"about-credits1action1" : "Development of website & web design.",
 	"about-credits1action2" : "Implementation and edits of all used image assets.",
-	"about-credits1action3" : "Support for multiple languages (english & german).",
-	"about-credits1action4" : "Entire text for english localization.",
+	"about-credits1action3" : "Implementation of support for multiple languages.",
+	"about-credits1action4" : "Entire translation for english localization.",
 	
 	"about-credits2action1" : "Research of information used by this website.",
 	"about-credits2action2" : "German localization.",
@@ -83,7 +83,7 @@
     "footer-DiscordLink" : "MW2:R Discord",
     "footer-YoutubeLink" : "MW2:R Youtube",
     "footer-instagram" : "Kali Instagram",
-    "footer-facebook" : "Neraziel's Steam",
+    "footer-facebook" : "Neraziel Steam",
     "footer-TwitterLink" : "Kali Twitter",
     "footer-Copyright" : "Trademarks used are owned by their respective owners. This website is not endorsed or affiliated with the copyright holders of the used assets in any form."
 }
