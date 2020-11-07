@@ -134,6 +134,19 @@
 	"capitals-romeAttraction1" : "Coliseum",
 	"capitals-romeAttraction2" : "St. Peter's Basilica",
 	"capitals-romeAttraction3" : "Pantheon",
+	
+	"capitals-stockholm" : "Stockholm",
+	"capitals-stockholmDescription" : "Capital of Sweden. This city is known for its 14 islands that are connected with about 50 bridges. It's also famous for the Sankt Nikolai Kyrka.",
+	"capitals-stockholmAttraction1" : "Nikolai Kyrka",
+	"capitals-stockholmAttraction2" : "Vasa Museum",
+	"capitals-stockholmAttraction3" : "Skansen",
+	"capitals-stockholmAttraction4" : "Stockholm Castle",
+	
+	"capitals-warsaw" : "Warsaw",
+	"capitals-warsawDescription" : "Capital of Poland. It offers a mix of structures such as churches, palaces and building blocks from soviet times. The city had to be rebuilt after its complete destruction during World War 2.",
+	"capitals-warsawAttraction1" : "Warschau King's Palace",
+	"capitals-warsawAttraction2" : "Lazienki Park",
+	"capitals-warsawAttraction3" : "Wilanów Palace Museum",
 
 	"resorts-Banner" : "Popular Resorts",
 	"resorts-eiffel" : "Eiffel Tower",
