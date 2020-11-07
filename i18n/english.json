@@ -82,6 +82,13 @@
 	"capitals-barcelonaDescription" : "Capital of Spain. Known for being one of the most beautiful europe cities that are next to the beach.",
 	"capitals-barcelonaAttraction1" : "Camp Nou",
 	"capitals-barcelonaAttraction2" : "Sagrada Família",
+	
+	"capitals-vienna" : "Vienna",
+	"capitals-viennaDescription" : "Capital of Austria. This city is known for being rich with musical culture.",
+	"capitals-viennaAttraction1" : "Belvedere Palace",
+	"capitals-viennaAttraction2" : "Courtyard Castle",
+	"capitals-viennaAttraction3" : "Castle Schönburg",
+	"capitals-viennaAttraction4" : "Wagenburg",
 
 	"resorts-Banner" : "Popular Resorts",
 	"resorts-eiffel" : "Eiffel Tower",
