@@ -115,6 +115,19 @@
 	"capitals-sarajevo" : "Sarajevo",
 	"capitals-sarajevoDescription" : "Capital of Bosnia. Known for its countless amount of theaters, museums as well as the national museum Herzegovina.",
 	"capitals-sarajevoAttraction1" : "Herzegovina",
+	
+	"capitals-tirana" : "Tirana",
+	"capitals-tiranaDescription" : "Capital of Albania. Known for having a lot of quad bikes and luxury sedans in its streets.",
+	"capitals-tiranaAttraction1" : "Skanderberg Square",
+	"capitals-tiranaAttraction2" : "Et' Hem Bey-Mosque",
+	"capitals-tiranaAttraction3" : "Culture Palace",
+	"capitals-tiranaAttraction4" : "National Museum",
+	
+	"capitals-athens" : "Athens",
+	"capitals-athensDescription" : "Capital of Greece. Athen is known to be the most historical, cultural and economical city of Greece.",
+	"capitals-athensAttraction1" : "Acropolis",
+	"capitals-athensAttraction2" : "Olympieion",
+	"capitals-athensAttraction3" : "Benaki Museum",
 
 	"resorts-Banner" : "Popular Resorts",
 	"resorts-eiffel" : "Eiffel Tower",
