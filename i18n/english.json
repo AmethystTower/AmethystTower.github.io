@@ -56,7 +56,7 @@
 	"capitals-Banner": "European Capitals",
 	"capitals-Attractions" : "Attractions",
 	"capitals-lisbon" : "Lisbon",
-	"capitals-lisbonDescription" : "Main capital of Portugal. The Cathedral of Lisbon and Triumph Arch are the most popular places that tourists visit.",
+	"capitals-lisbonDescription" : "Capital of Portugal. The Cathedral of Lisbon and Triumph Arch are the most popular places that tourists visit.",
 	"capitals-lisbonAttraction1" : "Cathedral of Lisbon",
 	"capitals-lisbonAttraction2" : "Triumph of Arch",
 
@@ -68,15 +68,20 @@
 	"capitals-parisAttraction4" : "Catacombs of Paris",
 	
 	"capitals-budapest" : "Budapest",
-	"capitals-budapestDescription" : "Main capital of Hungary. Known for surviving 800 years of earthquakes, fires and war without losing its great atmosphere.",
+	"capitals-budapestDescription" : "Capital of Hungary. Known for surviving 800 years of earthquakes, fires and war without losing its great atmosphere.",
 	"capitals-budapestAttraction1" : "Chain Bridge",
 	"capitals-budapestAttraction2" : "Castle District",
 	
 	"capitals-prague" : "Prague",
-	"capitals-pragueDescription" : "Main capital of the Czech Republic. Being built upon century old architecture from romanian times, this is one of the most popular capitals that Europe has to offer.",
+	"capitals-pragueDescription" : "Capital of the Czech Republic. Being built upon century old architecture from romanian times, this is one of the most popular capitals that Europe has to offer.",
 	"capitals-pragueAttraction1" : "King's Palace",
 	"capitals-pragueAttraction2" : "Charles Bridge",
 	"capitals-pragueAttraction3" : "Vitus Cathedral",
+	
+	"capitals-barcelona" : "Barcelona",
+	"capitals-barcelonaDescription" : "Capital of Spain. Known for being one of the most beautiful europe cities that are next to the beach.",
+	"capitals-barcelonaAttraction1" : "Camp Nou",
+	"capitals-barcelonaAttraction2" : "Sagrada Família",
 
 	"resorts-Banner" : "Popular Resorts",
 	"resorts-eiffel" : "Eiffel Tower",
