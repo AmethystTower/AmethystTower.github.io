@@ -33,18 +33,16 @@ function allowCookies(){
 window.onload = function() {
 
 	var currentUrlLang = new URL(window.location.href).searchParams.get("lang");
-	if (currentUrlLang == null){
+	if (currentUrlLang == null)
+	{
 		// No URL langauge param present
 		// Retrieve language from local storage if available
 		// Don't switch to english on load, as hardcoded text is english
-		var currentLangauge = localStorage.language;
-		if (currentLangauge != null && currentLangauge != "gb"){
-			switchLanguage(currentLangauge);
-		}else{
 			downloadSwitcherGB();
-		}
 
-	}else{
+	}
+	else
+	{
 		// URL language param present -> switch
 		switchLanguage(currentUrlLang);
 	}
@@ -55,7 +53,8 @@ var xhttp = new XMLHttpRequest();
 var langDocument = {};
 var currentLangauge = null;
 
-function switchLanguage(language){
+function switchLanguage(language)
+{
 
 	// Save language state
 	localStorage.language = language;
