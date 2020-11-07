@@ -1,12 +1,12 @@
 {
     "langShortName" : "gb",
 
-    "navbar-Home" : "no",
-    "navbar-Resorts" : "no",
-    "navbar-Capitals" : "no",
-    "navbar-Geographical" : "no Map",
-    "navbar-Political" : "no Map",
-    "navbar-About" : "no",
+    "navbar-Home" : "Home",
+    "navbar-Resorts" : "Resorts",
+    "navbar-Capitals" : "Capitals",
+    "navbar-Geographical" : "Geographical Map",
+    "navbar-Political" : "Political Map",
+    "navbar-About" : "About",
 	
 	//index.html
 	"index-EuropeMain" : "Europe",

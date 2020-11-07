@@ -1,97 +1,97 @@
 {
-    "langShortName" : "de",
+		"langShortName": "de",
 
-    "navbar-Home" : "meme",
-    "navbar-Resorts" : "meme",
-    "navbar-Capitals" : "meme",
-    "navbar-Geographical" : "meme Map",
-    "navbar-Political" : "meme Map",
-    "navbar-About" : "meme",
-	
-	//index.html
-	"index-EuropeMain" : "Europe",
-    "getStarted" : "Get Started",
-    "index-BannerSlogan" : "Welcome to Europe, enjoy your stay.",
-    "index-WelcomeText1" : "Learn about Europe",
-    "index-WelcomeText2" : "Explore Europe",
-    "index-SiteDescription1" : "Would you like to learn more about europe? Check out the capitals & popular resorts!",
-    "index-SiteDescription2" : "Do you feel like improving your geographical skills? Feel free to check out the european maps below!",
-    "index-PopularResorts" : "Popular Resorts",
-    "index-PopularResortsDescription" : "Are you planning on doing a vacation? Check out all of the popular hot spots for tourists!",
-    "index-PopularResortsButton" : "Visit Resorts",
-    "index-Capitals" : "European Capitals",
-    "index-CapitalsDescription" : "Would you like to know more about the heart of european countries and what they can offer for a vacation? We'll provide you with the needed information!",
-    "index-CapitalsButton" : "Visit Capitals",
-    "index-Geographical" : "Geographical Map",
-    "index-GeographicalDescription" : "This map will show you all of the european countries.",
-    "index-GeographicalButton" : "Visit Geographical Map",
-    "index-Political" : "Political Maps",
-    "index-PoliticalDescription" : "Would you like to know some random european statistics? These maps will do it for you.",
-    "index-PoliticalButton" : "Visit Political Maps",
-	
-	//geographicalMap.html
-    "geographical-Banner" : "Geographical Map",
-    "geographical-BannerSlogan" : "This geographical map will show you all of the european countries.",
-	
-	//politicalMap.html
-	"political-Banner" : "Political Maps",
-    "political-BannerSlogan" : "These political maps will show you random statistics about european countries.",
-	"political-Statistics" : "Statistics",
-	"political-Covid19Map" : "Covid 19 Map",
-	"political-Covid19MapDescription" : "Learn more about the sars-cov-2 virus in Europe. The statistics are from the 29th of October 2020.",
-	"political-Covid19MapLink" : "Visit Covid 19 Map",
-	"political-ISSMap" : "ISS Map",
-	"political-ISSMapDescription" : "Click here to learn more about how many people per country have visited the international space station.",
-	"political-ISSMapLink" : "Visit ISS Map",
-	"political-LifeMap" : "Life Expectancy Map",
-	"political-LifeMapDescription" : "How long do we live for? Click here to learn more about the life expectancy of all countries.",
-	"political-LifeMapLink" : "Visit Life Expectancy Map",
-	
-	//covidMap.html
-	"covidMap-Banner" : "COVID 19 Map",
-    "covidMap-BannerSlogan" : "This map will show you the amount of COVID 19 cases in all european countries.",
-	
-	//ISSMap.html
-	"ISS-Banner" : "ISS Map",
-    "ISS-BannerSlogan" : "This map will show you how many people per country have ever visited the ISS.",
-	
-	//lifeMap.html
-	"Life-Banner" : "Life Expectancy Map",
-    "Life-BannerSlogan" : "This map will show you how long people usually live for in every country.",
-	
-	//resorts.html
-	"resorts-lisbon" : "Lisbon",
-	"resorts-lisbonDescription" : "Main capital of Portugal. The Cathedral of Lisbon and Triumph Arch are the most popular places that tourists visit.",
-	"resorts-lisbonAttractions" : "Lisbon",
-	"resorts-lisbonAttraction1" : "Cathedral of Lisbon",
-	"resorts-lisbonAttraction2" : "Triumph of Arch",
-	
-	"resorts-Banner" : "Popular Resorts"
-	"resorts-eiffel" : "Eiffel Tower",
-	"resorts-eiffelDescription" : "Having a height of 324 meters, the Eiffel Tower is a huge attraction for couples.",
-	
-	"resorts-coliseum" : "Coliseum",
-	"resorts-coliseumDescription" : "Being about 1950 years old, this ancient gladiator arena is a magnet for tourists and an old piece of ancient Rome.",
-	
-	//about.html
-	"about-Banner" : "Credits",
-	"about-whoworked" : "Who worked on this website?",
-	"about-credits1action1" : "Development of website & web design.",
-	"about-credits1action2" : "Implementation and edits of all used image assets.",
-	"about-credits1action3" : "Support for multiple languages (english & german).",
-	"about-credits1action4" : "Entire text for english localization.",
-	
-	"about-credits2action1" : "Research of information used by this website.",
-	"about-credits2action2" : "German localization.",
-	
-	"about-credits3action1" : "Research of information used by this website.",
-	
-	"about-credits4action1" : "Research of information used by this website.",
+		"navbar-Home": "Home",
+		"navbar-Resorts": "Urlaubsorte",
+		"navbar-Capitals": "Hauptstädte",
+		"navbar-Geographical": "Lageplan",
+		"navbar-Political": "Politische Map",
+		"navbar-About": "Über uns",
 
-    "footer-DiscordLink" : "MW2:R Discord",
-    "footer-YoutubeLink" : "MW2:R Youtube",
-    "footer-instagram" : "Kali Instagram",
-    "footer-facebook" : "Neraziel's Steam",
-    "footer-TwitterLink" : "Kali Twitter",
-    "footer-Copyright" : "Trademarks used are owned by their respective owners. This website is not endorsed or affiliated with the copyright holders of the used assets in any form.",
+		//index.html
+		"index-EuropeMain": "Europa",
+		"getStarted": "Beginne Jetzt",
+		"index-BannerSlogan": "Willkommen in Europa, genießen Sie ihren Aufenthalt.",
+		"index-WelcomeText1": "Erfahre mehr über Europa",
+		"index-WelcomeText2": "Entdecke Europa",
+		"index-SiteDescription1": "Möchten Sie mehr über Europa erfahren? Schauen Sie sich die Hauptstädte und beliebten Urlaubsorte an!",
+		"index-SiteDescription2": "Verbessere dein erdisches Wissen. Schauen Sie sich die europäischen Karten unten an! !",
+		"index-PopularResorts": "Beliebte Urlaubsorte",
+		"index-PopularResortsDescription": "Planen Sie schon einen Urlaub? Schauen Sie sich alle beliebten Hot Spots für Touristen an!",
+		"index-PopularResortsButton": "Besuche beliebte Urlaubtsorte",
+		"index-Capitals": "Europäische Hauptstädte",
+		"index-CapitalsDescription": "Möchten Sie mehr über das Herz der europäischen Länder und deren Angebot für einen Urlaub erfahren? Wir stellen Ihnen die benötigten Informationen zur Verfügung!!",
+		"index-CapitalsButton": "Visit Capitals",
+		"index-Geographical": "Lageplan",
+		"index-GeographicalDescription": "Diese Karte zeigt Ihnen alle europäischen Länder.",
+		"index-GeographicalButton": "Besuche den Lageplan",
+		"index-Political": "Politische Lageplan",
+		"index-PoliticalDescription": "Möchten Sie zufällige europäische Statistiken kennenlernen? Diese Karten erledigen das für Sie .",
+		"index-PoliticalButton": "Besuche die politische Lageplan",
+
+		//geographicalMap.html
+		"geographical-Banner": "Lageplan",
+		"geographical-BannerSlogan": "Diese geografische Karte zeigt Ihnen alle europäischen Länder.",
+
+		//politicalMap.html
+		"political-Banner": "Politischer Lageplan",
+		"political-BannerSlogan": "Diese politischen Karten zeigen Ihnen zufällige Statistiken über europäische Länder .",
+		"political-Statistics": "Statistik",
+		"political-Covid19Map": "Covid 19 Lageplan",
+		"political-Covid19MapDescription": "Erfahren Sie mehr über das Sars-Cov-2-Virus in Europa. Die Statistiken stammen vom 29. Oktober 2020",
+		"political-Covid19MapLink": "Besuchen Sie den Sars-Cov-2 Lagplan",
+		"political-ISSMap": "ISS Lageplan",
+		"political-ISSMapDescription": "Klicken Sie hier, um mehr darüber zu erfahren, wie viele Menschen pro Land die internationale Raumstation besucht haben.",
+		"political-ISSMapLink": "Beusche den ISS Lageplan",
+		"political-LifeMap": "Lebenserwatungs Lageplan",
+		"political-LifeMapDescription": "Wie lange leben wir? Klicken Sie hier",
+		"political-LifeMapLink": "Visit Life Expectancy Map, um mehr über die Lebenserwartung aller Länder zu Erfahren",
+
+		//covidMap.html
+		"covidMap-Banner": "Covid 19 Lageplan",
+		"covidMap-BannerSlogan": "Diese Karte zeigt ihnen die Anzahl der Sars-Cov-2 Erkrankungen in der EU.",
+
+		//ISSMap.html
+		"ISS-Banner": "ISS Lageplan",
+		"ISS-BannerSlogan": "Dieser Lageplan zeigt íhnen wie viele Personen, per Land,  .",
+
+		//lifeMap.html
+		"Life-Banner": "Lebenen Erwartungen Lageplan",
+		"Life-BannerSlogan": "Diese Karte zeigt Ihnen, wie lange Menschen normalerweise in jedem Land leben.",
+
+		//resorts.html
+		"resorts-lisbon": "Lisbon",
+		"resorts-lisbonDescription": "Haupthauptstadt Portugals. Die Kathedrale von Lissabon und der Triumphbogen sind die beliebtesten Orte, die Touristen besuchen.",
+		"resorts-lisbonAttractions": "Lisbon",
+		"resorts-lisbonAttraction1": "Kathedrale von Lisbon",
+		"resorts-lisbonAttraction2": "Triumph des Bogens",
+
+		"resorts-Banner": "Bekannte Urlaubsorte",
+		"resorts-eiffel": "Eiffel Turm",
+		"resorts-eiffelDescription": "Sie ist 324 meter Hoch, Der EIfelturm ist eine beliebter Ausflugsort für Pärchen.",
+
+		"resorts-coliseum": "Kolosseum",
+		"resorts-coliseumDescription": "Das Kolosseum ist rund 1950 Jahre alt, dieses Gebäude ist ehemals für Gladiatoren Kämpfe gebaut worden und heute ein beliebter Ausflugsort.",
+
+		//about.html
+		"about-Banner": "Impressum",
+		"about-whoworked": "Wer hat an dieser schönen Webside gearbeitet?",
+		"about-credits1action1": "Entwickler und Designer.",
+		"about-credits1action2": "Implementierung und Bearbeitung aller verwendeten Image-Vorlagen .",
+		"about-credits1action3": "Übersetzung (englisch & deutsch).",
+		"about-credits1action4": "Komplette englische Übersetzung.",
+
+		"about-credits2action1": "Recherche von Information auf dieser Website.",
+		"about-credits2action2" : "Deutsche Übersetzung.",
+
+		"about-credits3action1": "Recherche von Information auf dieser Website.",
+
+		"about-credits4action1": "Recherche von Information auf dieser Website.",
+
+		"footer-DiscordLink": "MW2:R Discord",
+		"footer-YoutubeLink": "MW2:R Youtube",
+		"footer-instagram": "Kali Twitter",
+		"footer-facebook": "Neraziel's Steam",
+		"footer-TwitterLink": "Kali Twitter",
+		"footer-Copyright": "Die verwendeten Marken sind Eigentum ihrer jeweiligen Inhaber. Diese Website wird in keiner Form von den Copyright-Inhabern der verwendeten Vermögenswerte unterstützt oder mit diesen verbunden."
 }

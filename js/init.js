@@ -38,7 +38,14 @@ window.onload = function() {
 		// No URL langauge param present
 		// Retrieve language from local storage if available
 		// Don't switch to english on load, as hardcoded text is english
+		var currentLangauge = localStorage.language;
+		if (currentLangauge != null && currentLangauge != "gb")
+		{
+			switchLanguage(currentLangauge);
+		}else
+		{
 			downloadSwitcherGB();
+		}
 
 	}
 	else
