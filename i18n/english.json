@@ -60,6 +60,18 @@
 	"capitals-lisbonAttraction1" : "Cathedral of Lisbon",
 	"capitals-lisbonAttraction2" : "Triumph of Arch",
 
+	"capitals-paris" : "Paris",
+	"capitals-parisDescription" : "Main capital of France. Also known as the "City of Love.",
+	"capitals-parisAttraction1" : "Eiffel Tower",
+	"capitals-parisAttraction2" : "Arc de Triomphe",
+	"capitals-parisAttraction3" : "Louvre",
+	"capitals-parisAttraction4" : "Catacombs of Paris",
+	
+	"capitals-budapest" : "Budapest",
+	"capitals-budapestDescription" : "Main capital of Hungary. Known for surviving 800 years of earthquakes, fires and war without losing its great atmosphere.",
+	"capitals-budapestAttraction1" : "Chain Bridge",
+	"capitals-budapestAttraction2" : "Castle District",
+
 	"resorts-Banner" : "Popular Resorts",
 	"resorts-eiffel" : "Eiffel Tower",
 	"resorts-eiffelDescription" : "Having a height of 324 meters, the Eiffel Tower is a huge attraction for couples.",
