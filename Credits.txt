@@ -1,8 +1,7 @@
 **Credits**
 
 *Translations*
-German Translation: Disso
-Spanish Translation: Soy R.A.
+German Translation: Kali, Neraziel
 
 *Libs/CSS*
 Skel Framework: https://github.com/ajlkn/skel
